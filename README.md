@@ -1,0 +1,1 @@
+# Kata-Square-Every-Digit
